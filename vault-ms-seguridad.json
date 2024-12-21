@@ -1,0 +1,4 @@
+spring.datasource.url=jdbc:postgresql://localhost:5432/bdsecurityg7
+spring.datasource.username=postgres
+spring.datasource.password=admin123
+key.signature=xY+AWdhrucpDBqJh0YQ7Yx+QN4dp6KaIMFs/usCzHnV/yG5BUJ0mno9UDEiMsB0V6hiCTxh2yNxvslpNT73GaQ==
